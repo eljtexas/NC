@@ -1,1 +1,6 @@
+For running script:
 
+1. python plot_silent_replacement_distributions.py fasta_file
+
+Where fasta file is the full heavy chain lineage sequence file, UCA included and contain 38,48,59,119 and 206
+at the beginning of the sequence name for separation.
